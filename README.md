@@ -28,4 +28,5 @@
   <li>DHT.11</li>
 </ul>
 <h2>Made by</h2>
-<a href="https://github.com/S11UB11AYAN">Shubhayan Bagchi</a>
+<a href="https://github.com/S11UB11AYAN">Shubhayan Bagchi</a> 
+<a href="https://github.com/sarnick005">Sarnick Chakraborty</a>
